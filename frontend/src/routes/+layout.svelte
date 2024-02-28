@@ -6,10 +6,10 @@
     $font-stack: Ubuntu Mono, sans-serif;
     
     .main {
-        padding: 100px;
+        padding: 3%;
         font-family: $font-stack;
         font-size: 120%;
-        padding-right: 40%;
+        padding-right: 45%;
     }
 </style>
 

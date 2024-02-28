@@ -23,6 +23,8 @@
         <p>
             <a href="/">about</a>  
             <span>&#8226;</span>
+            <a href="/contact">contact</a>
+            <span>&#8226;</span>
             <a href="/posts">posts</a>
         </p>
     </div>

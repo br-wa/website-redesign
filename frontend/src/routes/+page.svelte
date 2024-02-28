@@ -11,7 +11,3 @@
     Currently, I am a student at MIT, graduating this May. 
     Next year, I will be in the Bay Area, where I will be learning about startups.
 </p>
-
-<p>
-    You can contact me at <b>brwa [at] mit [dot] edu</b>.
-</p>
